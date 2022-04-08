@@ -1,0 +1,37 @@
+3
+CS162
+Introduction to Programming
+19CLC1
+Dinh Ba Tien
+dbtien
+12-6-2020
+8-9-2020
+Friday
+13 15
+17 30
+I42
+
+CM101
+Communications
+19CLC1
+Duong Nguyen Vu
+dnvu
+12-6-2020
+8-9-2020
+Tuesday
+7 30
+11 30
+C23
+
+CP302
+Mac-Lenin
+19CLC1
+Nguyen Minh Huy
+nmhuy
+12-6-2020
+8-9-2020
+Wednesday
+13 30
+17 30
+F203
+

@@ -1,0 +1,64 @@
+9
+19127002
+Tran Xuan 2
+02-01-2001
+Male
+19CLC1
+1
+
+19127003
+Tran Xuan 3
+03-01-2001
+Male
+19CLC1
+1
+
+19127004
+Tran Xuan 4
+04-01-2001
+Male
+19CLC1
+1
+
+19127005
+Tran Xuan 5
+05-01-2001
+Male
+19CLC1
+1
+
+19127006
+Tran Xuan 6
+06-01-2001
+Male
+19CLC1
+1
+
+19127007
+Tran Xuan 7
+07-01-2001
+Male
+19CLC1
+1
+
+19127008
+Tran Xuan 8
+08-01-2001
+Male
+19CLC1
+1
+
+19127009
+Tran Xuan 9
+09-01-2001
+Male
+19CLC1
+1
+
+19127010
+Tran Xuan 10
+10-01-2001
+Male
+19CLC1
+1
+
